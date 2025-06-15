@@ -15,7 +15,7 @@ Update the component class by adding a property called `city` to the `App` class
 
 ```ts
 export class App {
-  city = 'San Francisco';
+  city = 'jacksonville, AR';
 }
 ```
 
